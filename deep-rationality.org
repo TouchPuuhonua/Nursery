@@ -1,3 +1,35 @@
 * Deep Rationality
 
-I am a big fan of the Western tradition of 
+** Rationality tells us how best to pursue us goals
+
+I am a big fan of the Western tradition of [[https://en.wikipedia.org/wiki/Rationalism][rationalism]] which is largely based on
+[[https://en.wikipedia.org/wiki/Logic][logic]]. [[https://en.wikipedia.org/wiki/Logic_and_rationality][Logic and rationality]] help us pursue our goals, but they fail to tell
+us anything about what those goals should be. For that, we need something
+deeper.  Let's call that /Deep Rationality/.
+
+** Deep Rationality helps us determine our goals
+
+A [[https://en.wikipedia.org/wiki/Goal][goal]] is something which us want to achieve.  But why do we want to achieve it?
+
+*** Perhaps our Goal is an NVC Strategy
+
+In his discipline of [[https://en.wikipedia.org/wiki/Nonviolent_Communication][Non-Violent Communication]] [[https://en.wikipedia.org/wiki/Marshall_Rosenberg][Marshall Rosenberg]] distinguished
+a [[https://www.cnvc.org/training/resource/needs-inventory][set of needs]] which all human beings share. For most of these needs, when they
+are not well met, we don't die but we suffer in various ways. Out of our
+suffering we often adopt strategies which we hope will make our lives better.
+Many of our goals are just these strategies.
+
+These goals can arise without our being aware of their origin as strategies to
+meet our needs. We can become very attached to such goals, driven by the
+emotional intensity of our underlying unmet needs. Such attachment can blind us
+to other possible strategies which might work as well or work better at
+fulfilling our needs. Not realizing that there are other possible strategies can
+cause conflict when our goals conflict with the goals of others.
+
+Traditional Rationality would direct us as to how to best pursue and argue for
+our goals. Deep Rationality would have us find the source of our goals. When we
+discover the source of our goals we can release our attachment and we are likely
+to find better goals.
+
+*** Perhaps our Goal comes from Creative Inspiration
+
