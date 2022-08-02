@@ -1,17 +1,19 @@
 * Deep Rationality
 
-** Rationality tells us how best to pursue us goals
+** Rationality tells us how best to pursue our goals
 
 I am a big fan of the Western tradition of [[https://en.wikipedia.org/wiki/Rationalism][rationalism]] which is largely based on
 [[https://en.wikipedia.org/wiki/Logic][logic]]. [[https://en.wikipedia.org/wiki/Logic_and_rationality][Logic and rationality]] help us pursue our goals, but they fail to tell
 us anything about what those goals should be. For that, we need something
 deeper.  Let's call that /Deep Rationality/.
 
-** Deep Rationality helps us determine our goals
+** Deep Rationality helps us examine our goals
 
-A [[https://en.wikipedia.org/wiki/Goal][goal]] is something which us want to achieve.  But why do we want to achieve it?
+A [[https://en.wikipedia.org/wiki/Goal][goal]] is something which we want to achieve. But why do we want to achieve it?
+How did we come to that goal? How would accomplishing that goal serve our needs
+and our life purpose? What alternative goals should we consider?
 
-*** Perhaps our Goal is an NVC Strategy
+*** Is our Goal an /NVC Strategy/ to meet our /Needs/?
 
 In his discipline of [[https://en.wikipedia.org/wiki/Nonviolent_Communication][Non-Violent Communication]] [[https://en.wikipedia.org/wiki/Marshall_Rosenberg][Marshall Rosenberg]] distinguished
 a [[https://www.cnvc.org/training/resource/needs-inventory][set of needs]] which all human beings share. For most of these needs, when they
@@ -20,16 +22,105 @@ suffering we often adopt strategies which we hope will make our lives better.
 Many of our goals are just these strategies.
 
 These goals can arise without our being aware of their origin as strategies to
-meet our needs. We can become very attached to such goals, driven by the
-emotional intensity of our underlying unmet needs. Such attachment can blind us
-to other possible strategies which might work as well or work better at
-fulfilling our needs. Not realizing that there are other possible strategies can
-cause conflict when our goals conflict with the goals of others.
+meet our needs. We can become very attached to such goals. Our attachment has an
+emotional intensity driven by our underlying unmet needs. Such attachment can
+blind us to other possible strategies which might work as well or even work
+better at fulfilling our needs. Our attachment to our goals can also bring us
+into conflict when our goals conflict with the goals of others.
 
-Traditional Rationality would direct us as to how to best pursue and argue for
-our goals. Deep Rationality would have us find the source of our goals. When we
-discover the source of our goals we can release our attachment and we are likely
-to find better goals.
+*** Does our Goal come from /Attachment/?
 
-*** Perhaps our Goal comes from Creative Inspiration
+Some philosophical and spiritual traditions, for example [[https://en.wikipedia.org/wiki/Stoicism][Stoicism]] and [[https://en.wikipedia.org/wiki/Buddhism][Buddhism]],
+teach that much of our confusion and suffering comes from attachment.
+- Attachment to things
+      - /You scratched my car, I'm going to kill you!/
+- Attachment to people
+      - /How dare you say that about my mother!/
+- Attachment to our own minds and personality
+      - /I can't do that, I'm not that kind of person!/
 
+When a goal comes out of such attachments we feel forced to pursue it. We
+experience no choice, no freedom, poor motivation and little power.
+
+*** Does our Goal come from our /Free Invention/?
+
+When we discover our attachments and let them go we are left in a context of
+pure creativity. We can freely explore possibilities for our life and our future
+and get a sense of what such possibilities might be like. There is an art to
+this practice. Part of the art is to notice when we've become attached again and
+learn how to ongoingly restore our power and freedom.
+
+When we are consciously relating to a goal as its author, we can
+- pursue it with enthusiasm
+- update it as our explorations show us new possibilities
+- let it go if we discover it doesn't serve us
+
+** How can Deep Rationality enrich our life?
+
+Deep Rationality ensures that we're
+- aware of our needs
+- conscious and effective in meeting our needs
+- avoiding being unconsciously driven by any unmet needs
+
+Deep Rationality allows us to 
+- Freely invent possibilities for our lives
+- Create our goals inside of such possibilities
+- Allow our goals to serve our life purpose
+  
+Deep Rationality enables traditional Rationality to serve us
+- We have goals which enliven us...
+- And we're effective at achieving them!
+
+** What Resources are available for Deep Rationality?
+
+There are a number of books, videos and other media on /Deep Rationality/ and
+they all have a serious limitation: Pursuing /Deep Rationality/ requires an
+active exploration which is generally not available when we're in our cognitive
+comfort zone taking in a message at arms length. We have to somehow bring the
+pointers within such media alive and have them feed an active inquiry. When we
+try to do this, we are often limited by our mind's blind spots which tend to
+reinforce our unconscious attitudes and preconceptions.
+
+For these reasons, many people find it useful to explore /Deep Rationality/ with
+the assistance of other people and often in the form of practical live
+workshops. I have found it especially valuable to combine multiple approaches,
+i.e. to attend several good workshops from multiple sources along with
+participating in intelligent support groups along with engaging with media which
+deepen the exploration.
+
+Here are some resources which I've found particularly valuable:
+- The [[https://touchpuuhonua.github.io/SomeClues][Some Clues]] Website
+      - /Clues, Not Answers!/
+- Studying /Non-Violent Communication/, aka /Compassionate Communication/
+      - Reading in a Study Group, 1 chapter per week
+            - [[https://www.nonviolentcommunication.com/product/nvc/][Nonviolent Communication: A Language of Life]]
+            - [[https://www.nonviolentcommunication.com/product/nonviolent-communication-companion-workbook/][Nonviolent Communication Companion Workbook]]
+      - Such study groups are available all over the world
+            - Or you could start one with some friends
+      - It's helpful (but not essential) to have an experienced facilitator
+- The [[https://hai.org/][Human Awareness Institute]]
+      - Extraordinary experiential workshops!
+- [[https://www.landmarkworldwide.com/][Landmark Worldwide]]
+      - Especially their /Core Curriculum/
+            - The [[https://www.landmarkworldwide.com/the-landmark-forum][Landmark Forum]]
+            - The [[https://www.landmarkworldwide.com/advanced-programs/the-landmark-advanced-course][Advanced Course]]
+            - The [[https://www.landmarkworldwide.com/advanced-programs/self-expression-and-leadership-program][Self-Expression and Leadership Program]]
+          
+** What are some good Resources for Traditional Rationality?
+
+Traditional Rationality is easier to explore using books, videos and websites.
+Since our minds often limit what we can see and can even deceive us, it is
+important to create a basis for friendly criticism within our circle of fellow
+rationalists. Accepting and profiting from friendly criticism is greatly
+enhanced by our /Deep Rationality/ practices - see how these go together?!
+
+Here are some great resources to start with:
+
+- [[https://www.lesswrong.com/][The Less Wrong Community Website]]
+- [[http://www.hpmor.com/][Harry Potter and the Methods of Rationality]]
+      - A brilliant fan-fiction about Rationality
+      - based on J.K. Rowling's Harry Potter fantasy
+            - For context you'll want to see or read
+                  - the [[https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)][first Harry Potter movie]]
+                  - the [[https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone][first Harry Potter book]]
+- [[https://en.wikipedia.org/wiki/Rationality_(book)][Rationality by Steven Pinker]]
