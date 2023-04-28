@@ -1,6 +1,7 @@
-* Draft Area
+* Creativity Nursery
 
-This repository is for drafts which may change or disappear without notice.
+This repository is for new documents which may appear, evolve and
+disappear without notice.
 
 Please simply ignore (or pretend to ignore) this repository unless I've
 specifically asked you for feedback on something here.
