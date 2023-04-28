@@ -60,9 +60,9 @@ share the recipe with you here:
 
 #+begin_example
 Prepare a cup of Green Tea
-- I use Stash Green Chai
+- I really like Stash Green Chai
 Prepare a serving of espresso
-- 1 shot is all I seem to need or tolerate these days
+- usually 1 shot (but sometimes 2) for me these days
 In a blender, mix
 - 1 cup (about 250g) 1% fat milk
 - 1 scoop (about 23g) cacao powder
@@ -75,5 +75,6 @@ In a blender, mix
 - a generous shake of Pumpkin Pie Spice (mostly cinnamon and ginger)
   - I used to just use Saigon Cinnamon, which is also lovely
 - a dash of L-Theonine [optional]
+- the coffee and tea
 Blend and serve!
 #+end_example
