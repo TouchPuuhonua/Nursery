@@ -2,9 +2,8 @@
 
 I would like to share some of my visionary projects with you!
 
-/For those few who are interested in geeky details, see *Geeky Details* below.
-Otherwise, feel free to read this without worrying about the peculiar format
-it's in!/
+/For those interested in geeky details, see *Geeky Details* below.
+Otherwise, don't worry about the peculiar format of this document!/
 
 ** LOEL - The League of Extraordinary Learners
 
@@ -12,16 +11,16 @@ What if Learning was driven by and owned by curious Learners instead of
 "Educators". What if experts were simply resources which Learners could draw on
 when and as needed.
 
-- The Idea of LOEL
-- Deep Rationality - A wonderful curriculum just starting!
-- Computing Magic - An exploratorium of creative computing.
+-[[https://gregdavidson.github.io/loel/][The Original Vision of LOEL]]
+- A couple examples of LOEL Curricula:
+    - [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]] :: A wonderful curriculum just starting!
+    - [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]] - Computing with the Magic Restored!
 
-** Other Materials
+** More Goodies To Share
 
 - [[https://someclues.org][Some Clues for You!]]
 - [[https://github.com/TouchPuuhonua/Nursery/tree/main/2025/sex-and-gender#readme][Touch & Otter Sex & Gender Resources]]
 
-You might also want to explore
 - [[https://touchpuuhonua.github.io/][Touch Pu'uhonua's Ancient Home Page]]
 - [[https://github/com/TouchPuuhonua][All Touch Pu'uhonua's GitHub Repositories]]
 - [[https://github/com/GregDavidson][All GregDavidson's Repositories on GitHub]]
@@ -38,4 +37,5 @@ A live copy of this repository is stored on [[https://github.com][GitHub]] to ma
 collaborators and other interested folks to find it.
 
 If you're interested in Software which might be able to Change the World
-- ask me to explain
+- ask me to explain the vision of
+    - [[https://gregdavidson.github.io/wicci-core-S0_lib/][The Wicci Project]]
