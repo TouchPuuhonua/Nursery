@@ -21,8 +21,10 @@ when and as needed.
 - [[https://someclues.org][Some Clues for You!]]
 - [[https://github.com/TouchPuuhonua/Nursery/tree/main/2025/sex-and-gender#readme][Touch & Otter Sex & Gender Resources]]
 
+as well as
+
 - [[https://touchpuuhonua.github.io/][Touch Pu'uhonua's Ancient Home Page]]
-- [[https://github/com/TouchPuuhonua][All Touch Pu'uhonua's GitHub Repositories]]
+- [[https://github.com/TouchPuuhonua][All Touch Pu'uhonua's GitHub Repositories]]
 - [[https://github/com/GregDavidson][All GregDavidson's Repositories on GitHub]]
 
 ** Geeky Details
