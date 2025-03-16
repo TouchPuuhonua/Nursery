@@ -18,7 +18,8 @@ when and as needed.
 
 ** Other Materials
 
-- SomeClues :: Some Clues for You!
+- [[https://someclues.org][Some Clues for You!]]
+- Touch & Otter Sex and Gender Resources
 
 You might also want to explore
 - [[https://touchpuuhonua.github.io/][Touch Pu'uhonua's Ancient Home Page]]
