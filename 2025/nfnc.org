@@ -19,7 +19,7 @@ when and as needed.
 ** Other Materials
 
 - [[https://someclues.org][Some Clues for You!]]
-- Touch & Otter Sex and Gender Resources
+- [[https://github.com/TouchPuuhonua/Nursery/tree/main/2025/sex-and-gender#readme][Touch & Otter Sex & Gender Resources]]
 
 You might also want to explore
 - [[https://touchpuuhonua.github.io/][Touch Pu'uhonua's Ancient Home Page]]
