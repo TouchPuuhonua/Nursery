@@ -1,0 +1,40 @@
+* Welcome NFNC Friends!
+
+I would like to share some of my visionary projects with you!
+
+/For those few who are interested in geeky details, see *Geeky Details* below.
+Otherwise, feel free to read this without worrying about the peculiar format
+it's in!/
+
+** LOEL - The League of Extraordinary Learners
+
+What if Learning was driven by and owned by curious Learners instead of
+"Educators". What if experts were simply resources which Learners could draw on
+when and as needed.
+
+- The Idea of LOEL
+- Deep Rationality - A wonderful curriculum just starting!
+- Computing Magic - An exploratorium of creative computing.
+
+** Other Materials
+
+- SomeClues :: Some Clues for You!
+
+You might also want to explore
+- [[https://touchpuuhonua.github.io/][Touch Pu'uhonua's Ancient Home Page]]
+- [[https://github/com/TouchPuuhonua][All Touch Pu'uhonua's GitHub Repositories]]
+- [[https://github/com/GregDavidson][All GregDavidson's Repositories on GitHub]]
+
+** Geeky Details
+
+This document is written in [[https://orgmode.org][OrgMode]]. OrgMode is a Text Format Markup Language
+with a lot of great advantages you can read about at that link.
+
+This document is part of a [[https://en.wikipedia.org/wiki/Git][Git Repository]] which allows people to collaborate on
+the development of any and all of the documents and other source files there.
+
+A live copy of this repository is stored on [[https://github.com][GitHub]] to make it easier for
+collaborators and other interested folks to find it.
+
+If you're interested in Software which might be able to Change the World
+- ask me to explain
