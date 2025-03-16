@@ -7,13 +7,10 @@ I would like to share some of my visionary projects with you!
 
 ** LOEL - The League of Extraordinary Learners
 
-What if
-- Learning was driven by and owned by curious Learners instead of
-"Educators"?
-- Experts were simply resources which Learners could draw on
-when and as needed?
+What if Learning was driven by and owned by curious Learners
+- instead of "Educators"?
 
-- [[https://gregdavidson.github.io/loel/][The Original Vision of LOEL]]
+This is [[https://gregdavidson.github.io/loel/][The Vision of LOEL]]
 
 A couple example LOEL Curricula:
 - [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]] :: A wonderful curriculum just starting!
