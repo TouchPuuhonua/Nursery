@@ -30,7 +30,7 @@ LOEL Curricula and More Resources:
   like some of the resources here and perhaps you'd like to help this
   "curriculum" grow?
 - [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]] :: Would you like to learn computing with the Magic
-  Restored!  How to automate anything boring and aim for the stars?
+  Restored?  How to automate anything boring and aim for the stars?
 - The [[https://github.com/GregDavidson/LOEL#readme][LOEL README]]!
 
 ** Two More Projects
