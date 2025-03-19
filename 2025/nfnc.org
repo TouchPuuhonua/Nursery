@@ -1,27 +1,39 @@
 * Welcome NFNC Friends!
 
-I would like to share some of my visionary projects with you!
+It has been such a joy to share and connect with you during the
+opportunities we've had at camp.  I want more:
 
-/For those interested in geeky details, see *Geeky Details* below./
-- /Otherwise, don't worry about the peculiar format of this document!/
+- To have you know me better!
+- To share some of my visionary projects with you!
+- Maybe to be allies or project partners!
 
-** LOEL - The League of Extraordinary Learners
+I invite you to explore the links in this document to learn about some
+of the ways my heart and mind are engaged in visionary projects.
+
+/Please excuse the geeky format of this document,/
+- /If you're curious about it, see *Geeky Details* below./
+
+** Project #1: LOEL - The League of Extraordinary Learners
 
 What if Learning was driven by and owned by curious Learners
 - instead of "Educators"?
 
-This is [[https://gregdavidson.github.io/loel/][The Vision of LOEL]]
+This is [[https://gregdavidson.github.io/loel/][The Vision of LOEL]]!
 
-A couple example LOEL Curricula:
-- [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]] :: A wonderful curriculum just starting!
-- [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]] :: Computing with the Magic Restored!
+LOEL Resources:
+- [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]] :: A wonderful curriculum just starting!  You might
+  like some of the resources here and perhaps you'd like to help this
+  "curriculum" grow?
+- [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]] :: Would you like to learn computing with the Magic
+  Restored!  How to automate anything boring and aim for the stars?
+- The [[https://github.com/GregDavidson/LOEL#readme][LOEL README]]!
 
-** More Goodies To Share
+** Two More Projects
 
 - [[https://someclues.org][Some Clues for You!]]
 - [[https://github.com/TouchPuuhonua/Nursery/tree/main/2025/sex-and-gender#readme][Touch & Otter Sex & Gender Resources]]
 
-as well as
+** I'd also like to share with you
 
 - [[https://touchpuuhonua.github.io/][Touch Pu'uhonua's Ancient Home Page]]
 - [[https://github.com/TouchPuuhonua][All Touch Pu'uhonua's GitHub Repositories]]
@@ -38,5 +50,6 @@ the development of any and all of the documents and other source files there.
 A live copy of this repository is stored on [[https://github.com][GitHub]] to make it easier for
 collaborators and other interested folks to find it.
 
-If you're interested in Software which might be able to Change the World
+If you might be interested in a special computing project aimed at
+*Changing the World*
 - ask me to explain the vision of [[https://gregdavidson.github.io/wicci-core-S0_lib/][The Wicci Project]]
