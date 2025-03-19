@@ -18,12 +18,12 @@ It's also totally okay if you're not interested in any of this!
 ** Project #1: LOEL - The League of Extraordinary Learners
 
 What if Learning was driven by and owned by curious Learners
-- instead of "Educators"?
+- instead of "Educators" and "Administrators"?
 
 This is [[https://gregdavidson.github.io/loel/][The Vision of LOEL]]!
 
 Many of my Favorite Books, Videos, etc.
-- are on this this [[https://gregdavidson.github.io/loel/loel-media.html][LOEL Media Page]]
+- are on this [[https://gregdavidson.github.io/loel/loel-media.html][LOEL Media Page]]
 
 LOEL Curricula and More Resources:
 - [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]] :: A wonderful curriculum just starting!  You might
