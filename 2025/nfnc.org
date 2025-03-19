@@ -42,7 +42,7 @@ LOEL Curricula and More Resources:
 
 - [[https://touchpuuhonua.github.io/][Touch Pu'uhonua's Ancient Home Page]]
 - [[https://github.com/TouchPuuhonua][All Touch Pu'uhonua's GitHub Repositories]]
-- [[https://github/com/GregDavidson][All GregDavidson's Repositories on GitHub]]
+- [[https://github.com/GregDavidson][All GregDavidson's Repositories on GitHub]]
 
 ** Geeky Details
 
