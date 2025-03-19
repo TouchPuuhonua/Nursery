@@ -52,8 +52,10 @@ with a lot of great advantages you can read about at that link.
 This document is part of a [[https://en.wikipedia.org/wiki/Git][Git Repository]] which allows people to collaborate on
 the development of any and all of the documents and other source files there.
 
-A live copy of this repository is stored on [[https://github.com][GitHub]] to make it easier for
-collaborators and other interested folks to find it.
+A live copy of this repository is stored on [[https://github.com][GitHub]] to make it easier
+for collaborators and other interested folks to find it.  By the way:
+Git, GitHub and other Git Forges are not at all limited to software
+development.
 
 If you might be interested in a special computing project aimed at
 *Changing the World*
