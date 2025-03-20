@@ -25,13 +25,16 @@ This is [[https://gregdavidson.github.io/loel/][The Vision of LOEL]]!
 Many of my Favorite Books, Videos, etc.
 - are on this [[https://gregdavidson.github.io/loel/loel-media.html][LOEL Media Page]]
 
-LOEL Curricula and More Resources:
+LOEL "Curricula" start out as collections of resources, e.g.
 - [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]] :: A wonderful curriculum just starting!  You might
   like some of the resources here and perhaps you'd like to help this
   "curriculum" grow?
+
+LOEL Resources can be developed into organized course of study, e.g.
 - [[https://github.com/GregDavidson/computing-magic#readme][Computing Magic]] :: Would you like to learn computing with the Magic
   Restored?  How to automate anything boring and aim for the stars?
-- The [[https://github.com/GregDavidson/LOEL#readme][LOEL README]]!
+
+The [[https://github.com/GregDavidson/LOEL#readme][LOEL README]] indexes overall LOEL development work.
 
 ** Two More Projects
 
